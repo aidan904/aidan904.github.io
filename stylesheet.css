@@ -4,6 +4,10 @@
             background-color: rgb(224, 224, 224);
         }
 
+        h1 {
+            text-align:center;
+		}
+
         .box {
             border: 1px solid black;
             margin: 5px;
